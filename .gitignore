@@ -1,0 +1,10 @@
+# Private data
+adminlogin.txt
+customerlogin.txt
+sales.txt
+temp.txt
+
+# Build output
+*.exe
+*.o
+*.out

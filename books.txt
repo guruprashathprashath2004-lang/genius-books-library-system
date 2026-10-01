@@ -1,0 +1,5 @@
+1001,The Alchemist,Paulo Coelho,Fiction,208,1500
+1002,Atomic Habits,James Clear,Self-Help,320,2200
+1003,Clean Code,Robert C. Martin,Programming,464,4500
+1004,The Pragmatic Programmer,Andrew Hunt,Programming,352,4200
+1005,Sapiens,Yuval Noah Harari,History,443,2800
